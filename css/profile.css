@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    border-color:blueviolet;
+    border-style:ridge;
+    border-width: 20px;
+    padding:1px
+}
+h1, h2{
+    color:rgb(240, 97, 197);
+    font-style:italic;
+    font-size:50px;
+    font-weight:bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding:1px;
+
+}
+.list{
+    color:violet;
+    font-style:italic;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:justify;
+    
+}
+#id{
+    border-color:blueviolet;
+    border-style:dotted;
+    border-width:5px;
+}
