@@ -4,6 +4,8 @@ A collection of web apps created by me :)
 
 ## Screenshots
 
+### Profile Page
+
 ![Screenshot (70)](https://user-images.githubusercontent.com/119779217/206814297-71189362-83a5-4af6-a59b-4b004d6fc134.png)
 
 ### Matching Game
