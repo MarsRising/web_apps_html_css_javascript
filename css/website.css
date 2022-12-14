@@ -15,24 +15,6 @@
     position: fixed;
     justify-content: center;
   }
-.title{
-    object-fit: scale-down;
-    width:10rem;
-}
-  .left{
-    width:1rem;
-    display:inline;
-    float:left;
-    object-fit: scale-down;
-  }
-  .right{
-    display:inline;
-    object-fit:contain;
-    float:right;
-    object-fit:contain;
-    
-  }
-  
 
 body{
     background-color: rgb(27, 31, 32);
@@ -78,6 +60,7 @@ h4{
     padding:1rem;
     color:rgb(240, 97, 197);
 }
+
 #pic1{
     width:50%;
 }
