@@ -1,0 +1,86 @@
+.header {
+    margin:0rem;
+    padding:1rem;
+    background-image: url(https://thecutestblogontheblock.com/wp-content/uploads/2011/10/graffitimyheartcopy.jpg);
+    background-size:cover;
+    height: 10rem;
+    display:flex;
+    -webkit-box-align: center;
+    align-items:center;
+    flex-direction:column;
+    top: 0rem;
+    right:0rem;
+    left:0rem;
+    width: 100%;
+    position: fixed;
+    justify-content: center;
+  }
+.title{
+    object-fit: scale-down;
+    width:10rem;
+}
+  .left{
+    width:1rem;
+    display:inline;
+    float:left;
+    object-fit: scale-down;
+  }
+  .right{
+    display:inline;
+    object-fit:contain;
+    float:right;
+    object-fit:contain;
+    
+  }
+  
+
+body{
+    background-color: rgb(27, 31, 32);
+    text-align: center;
+    padding:1rem;
+    -webkit-text-size-adjust: auto;
+}
+
+h1, h3{
+    margin:.5rem;
+    color:rgb(240, 97, 197);
+    font-style:oblique;
+    font-size:4rem;
+    font-weight:bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    font-size:large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(240, 97, 197);
+}
+.firstlist{
+    margin-top: 12rem;
+    margin-left: .5rem;
+    margin-right: .5rem;
+    padding:1rem;
+    font-style:oblique;
+    font-size: 10rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    box-shadow:0rem 0rem .5rem .5rem rgb(240, 97, 197);
+}
+.list{
+    margin-top:1.2rem;
+    margin-left:.5rem;
+    margin-right:.5rem;
+    font-style:oblique;
+    font-size: 2rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:justify;
+    text-align: center;
+    box-shadow:0rem 0rem .5rem .5rem rgb(240, 97, 197);
+    padding:1rem;
+    color:rgb(240, 97, 197);
+}
+#pic1{
+    width:50%;
+}
+#pic2{
+    width:85%;
+}
